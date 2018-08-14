@@ -1,0 +1,47 @@
+{
+ "byQName": {
+  "SGBotic": {
+   "kind": 5,
+   "namespace": "",
+   "name": "SGBotic",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 100,
+    "color": "#f47820",
+    "icon": "",
+    "paramHelp": {},
+    "jsDoc": "Ambient light sensor package for microbit Makecode.\n\nSGBotic blocks",
+    "block": "SGBotic"
+   },
+   "pkg": null,
+   "retType": "",
+   "parameters": null,
+   "qName": "SGBotic"
+  },
+  "SGBotic.readLux": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "readLux",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "light",
+    "blockId": "Ambient_getLux",
+    "block": "lux",
+    "weight": 100,
+    "blockGap": "3",
+    "paramHelp": {},
+    "jsDoc": "Read ambient light",
+    "_name": "readLux"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "readLux()",
+   "qName": "SGBotic.readLux"
+  }
+ }
+}
